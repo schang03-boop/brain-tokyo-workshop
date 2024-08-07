@@ -1,6 +1,6 @@
 from domain import *  # Task environments
 from utils import *
-from neat_src.nsga_sort import nsga_sort
+from .nsga_sort import nsga_sort
 
 
 class Neat():

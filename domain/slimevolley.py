@@ -597,7 +597,7 @@ class BaselinePolicy:
         return self._getAction()
 
 
-class Game:
+class SlimeVolley(gym.Env):
     """
     the main slime volley game.
     can be used in various settings, such as ai vs ai, ai vs human, human vs human
