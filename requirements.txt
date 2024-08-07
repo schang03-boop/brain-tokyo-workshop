@@ -1,0 +1,6 @@
+graphviz
+gymnasium
+numpy
+matplotlib
+neat-python
+opencv-python
